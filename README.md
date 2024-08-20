@@ -46,6 +46,7 @@ If you're passionate about DevOps, Linux, or cloud technologies, I'd love to con
 
 Thanks for stopping by! ✨
 
-🔗 LinkedIn | 🌐 Portfolio Website | 📧 Email Me
+🔗 [LinkedIn](#-https://www.linkedin.com/in/milad-vahdatkhah-7289b261/)
+📧 [Email Me]<mvahdatkhah.work@gmail.com>
 
 Happy coding! 💻✨
