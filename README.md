@@ -48,6 +48,6 @@ Thanks for stopping by! ✨
 
 🔗 [LinkedIn](https://www.linkedin.com/in/milad-vahdatkhah-7289b261/)
 
-📧 Email Me <mvahdatkhah.work@gmail.com>
+📧 <mvahdatkhah.work@gmail.com>
 
 Happy coding! 💻✨
