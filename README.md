@@ -32,7 +32,6 @@ My journey has been one of continuous learning, and I'm excited to bring my skil
 
 🎓 Education & Certifications 🎓
 
-    Bachelor's Degree in Mining Exploration Engineering 🏫
     Certified Kubernetes Administrator (CKA) 🏆
     Certified Kubernetes Application Developer (CKAD) 🏆
     AWS Solutions Architect 🏆
