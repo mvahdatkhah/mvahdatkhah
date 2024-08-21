@@ -17,20 +17,20 @@ My journey has been one of continuous learning, and I'm excited to bring my skil
     Version Control: Git 📝
 
 💼 Professional Experience 💼
-🚀 DevOps Engineer at ASSISTANCE OF IRIB | May 2022 – Present
+🚀 DevOps Engineer | May 2022 – Present
 
     Revolutionized deployment pipelines, cutting release times by 50% and boosting system reliability.
     Automated infrastructure provisioning using Ansible, and managed cloud services on AWS.
     Utilized Docker and Kubernetes for scalable environments.
     Enhanced security practices and optimized system performance.
 
-🛠️ Linux Administrator at ASSISTANCE OF IRIB | Mar 2017 – May 2022
+🛠️ Linux Administrator | Mar 2017 – May 2022
 
     Increased server uptime by 40% with custom scripting and efficient patch management.
     Administered and maintained Linux servers, ensuring high availability.
     Developed scripts to automate system management and performed regular security assessments.
 
-🎓 Education & Certifications 🎓
+🎓 Certifications 🎓
 
     Certified Kubernetes Administrator (CKA) 🏆
     Certified Kubernetes Application Developer (CKAD) 🏆
