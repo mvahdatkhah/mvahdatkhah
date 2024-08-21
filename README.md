@@ -46,7 +46,7 @@ If you're passionate about DevOps, Linux, or cloud technologies, I'd love to con
 
 Thanks for stopping by! ✨
 
-🔗 [LinkedIn](https://www.linkedin.com/in/milad-vahdatkhah-7289b261/)
+🔗 [LinkedIn](https://www.linkedin.com/in/miladvahdatkhah/)
 
 📧 <mvahdatkhah.work@gmail.com>
 
